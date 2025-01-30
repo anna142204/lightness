@@ -1,0 +1,24 @@
+{
+  "name": "lightness",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna142204/lightness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna142204/lightness/issues"
+  },
+  "homepage": "https://github.com/anna142204/lightness#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
