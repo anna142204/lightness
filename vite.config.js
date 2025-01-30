@@ -4,7 +4,7 @@ export default defineConfig({
   root: 'src', // Set the root to 'src'
   build: {
 	  target: 'es6',
-    outDir: '../dist', // Output directory (relative to the root)
+    outDir: '../public', // Output directory (relative to the root)
     emptyOutDir: true, // Clean the output directory before building
   },
 });
